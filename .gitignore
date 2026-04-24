@@ -1,0 +1,13 @@
+# Voice samples — личные образцы пользователя, не пушим
+voice-samples/*
+!voice-samples/README.md
+!voice-samples/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
